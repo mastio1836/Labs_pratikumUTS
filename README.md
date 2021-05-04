@@ -14,3 +14,5 @@ Jika sudah kalian tinggal membuat Css homepagenya seperti berikut
 Lalu ini adalah hasil dari Program tersebut
 
 ![Output Jendela Home](https://user-images.githubusercontent.com/56244106/116972075-b2f73b00-ace4-11eb-9608-ddc5eaf1dd2e.JPG)
+
+Nah gambar tersebut adalah hasil output gabungan dari file index dan css di tambahkan background yang kita mau Sekian terimakasih
